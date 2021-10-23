@@ -56,3 +56,18 @@ nav ul li{
     align-items: center;
     color: aliceblue;
 }
+
+.container{
+    min-height: 72vh;
+    background-color: black;
+    color: rgb(100, 197, 71);
+   font-family: 'Varela Round', sans-serif;
+   display: flex;
+   margin: 23px auto;
+   width: 70%;
+   border-radius: 22px;
+   padding: 44px;
+   background-image: url('bg.png');
+    overflow: hidden;
+   
+}
