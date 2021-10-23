@@ -110,3 +110,74 @@ nav ul li{
   .dropdown-content a:hover {background-color: #f1f1f1;}
   .dropdown:hover .dropdown-content {display: block;}
   .dropdown:hover .dropbtn {background-color: #ce5d1b;}
+
+  .credit{
+    font-weight: 100;
+    color: aliceblue;
+}
+
+.pics img{
+    width: 100px;
+    margin: 0 10px;
+    border-radius: 54px;
+    backdrop-filter: blur(3px);
+ 
+}
+
+.brand img{
+    width: 35px;
+    padding: 0 8px;
+}
+.myname{
+    font-weight: 300;
+    padding-top: 10px;
+    padding-left: 5px;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.brand {
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 2rem;
+    align-items: center;
+    color: aliceblue;
+}
+
+footer {
+    min-height: 22vh;
+    background-color: black;
+    color: #ce5d1b ;
+   font-family: 'Varela Round', sans-serif;
+   display: flex;
+   margin: 23px auto;
+   width: 70%;
+   border-radius: 22px;
+   padding: 44px;
+   background-image: url('bg.png');
+   
+}
+footer li{
+    display: flex;
+    display: inline-block;
+    margin: 10px 20px 30px 50px ;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(1px);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
